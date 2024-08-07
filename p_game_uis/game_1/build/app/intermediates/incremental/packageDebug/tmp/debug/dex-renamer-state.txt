@@ -1,0 +1,4 @@
+#Fri Aug 04 15:29:04 IST 2023
+base.0=C\:\\Users\\gurme\\OneDrive\\Documents\\Flutter_projects\\p_game_uis\\game_1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
